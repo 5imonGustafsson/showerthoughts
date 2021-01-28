@@ -1,2 +1,2 @@
 # showerthoughts
-Welcome inside my head. This is the repository were I experiment with different concepts, techniques and languages I am finding interesting. 
+Welcome inside my head. This is the repository were I experiment with different concepts, techniques and languages I am finding interesting. What is in my head atm? Open source IoT platform with MQTT brokers and ingestion functions, gRPC and Kafka as a start. A plan to add and play around a little with Tensorflow ones I find a cool data set to ingest. Languages? Well as of the past 1,5 years I have started identified myself as a Gopher (Golang) so ofcourse there is some Go in there. A Python Kafka consumer is in the plan and maybe some Java Spring microservice just to refresh my memory in Java with gRPC.  
